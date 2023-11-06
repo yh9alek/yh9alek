@@ -16,3 +16,8 @@
 - 👨‍🎓 Estudiando actualmente en la Universidad Politécnica de Sinaloa
 - 🔰 Actualmente estudiando desarrollo web
 <br>
+
+## Mis Skills
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,postgresql)](https://skillicons.dev)
+
+[![My Code Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c,bash)](https://skillicons.dev)
