@@ -25,5 +25,39 @@
 ## GitHub Stats
 <img src="https://myreadme.vercel.app/api/embed/yh9alek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+## Proyectos Destacados
+<table>
+<tr>
+<td width="50%">
+               <br>
+<h3 align="center">ROAD 1.0</h3>
+<div align="center">                                       
+<a href="https://s-f-t.itch.io/road" target="_blank"><img src="https://yohan-alek-web.netlify.app/assets/sources/road.gif" width="400" alt="ROAD 1.0, Juego de Escritorio"></a>
+<br>
+<p>
+<a href="https://s-f-t.itch.io/road" target="_blank">
+<img src="https://img.shields.io/badge/Descargar-4D71A2?style=for-the-badge&logo=cs&logoColor=black">
+</a>
+</p>
+</p>Este es un Juego para PC, la mecánica es fácil, conduce por los carriles sin chocar con un auto e intenta llegar lo más lejos que puedas. Este proyecto cuenta con Ranking Global, así es! puedes aparecer en tiempo real.</p>
+</div>
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">BLACKJACK C/C++</h3>
+<div align="center">                                       
+<a href="https://github.com/yh9alek/blackjack" target="_blank"><img src="https://yohan-alek-web.netlify.app/assets/sources/blackjack.gif" width="400" alt="BlackJack, juego en consola"></a>
+<br>
+<p>
+<a href="https://github.com/yh9alek/blackjack" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-4D71A2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</p>El clásico BlackJack desde tu consola. ¿Serás capaz de obtener 21 puntos sin pasarte?</p>
+</div>
+</td>
+</table>
+
 
 
