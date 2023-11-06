@@ -30,9 +30,10 @@
 <tr>
 <td width="50%">
                <br>
+  <br>
 <h3 align="center">ROAD 1.0</h3>
 <div align="center">                                       
-<a href="https://s-f-t.itch.io/road" target="_blank"><img src="https://yohan-alek-web.netlify.app/assets/sources/road.gif" width="400" alt="ROAD 1.0, Juego de Escritorio"></a>
+<a href="https://s-f-t.itch.io/road" target="_blank"><img src="https://cdn.discordapp.com/attachments/1129195909796860029/1171153803047866378/Captura.PNG?ex=655ba4f9&is=65492ff9&hm=1812777c983d201b9ca7225b51e8c68400480b924f42f77610b8b297c096897f&" width="400" alt="ROAD 1.0, Juego de Escritorio"></a>
 <br>
 <p>
 <a href="https://s-f-t.itch.io/road" target="_blank">
