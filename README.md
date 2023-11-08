@@ -20,7 +20,7 @@
 ## Mis Skills
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,postgresql)](https://skillicons.dev)
 
-[![My Code Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c,bash)](https://skillicons.dev)
+[![My Code Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,c,bash,git)](https://skillicons.dev)
 
 ## GitHub Stats
 <img src="https://myreadme.vercel.app/api/embed/yh9alek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
