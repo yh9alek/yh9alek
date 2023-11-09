@@ -3,10 +3,11 @@
 </div>
 <img src="https://cdn.discordapp.com/attachments/1129195909796860029/1171115787428298842/banner.gif?ex=655b8192&is=65490c92&hm=1bf3dbe9828febc2a7d31362a431e120baeb1399304b61125cb9f5cf973b0bd9&">
 
-![Oriented Object Programming](https://img.shields.io/badge/OOP-5C5C5C)
-![Structured Query Language](https://img.shields.io/badge/SQL-0476B6)
-![GIT](https://img.shields.io/badge/GIT-F74D27)
-![Terminal](https://img.shields.io/badge/TERMINAL-F74D27?style=social)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Sobre mi
 
