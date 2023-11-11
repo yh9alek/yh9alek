@@ -8,6 +8,15 @@
 <a href="https://www.linkedin.com/in/yohan-alek-977616296">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/yh9alek">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
+<div align="right">
+  <img height="35px" src="https://cdn.discordapp.com/attachments/1129195909796860029/1173010804723949638/github-boosted.png?ex=65626671&is=654ff171&hm=278e213078623649bd6c4daac5e85384c87a1594e32b75aaadcfab628045c3d1&">
+</div>
+<div align="right">
+  <img height="35px" src="https://cdn.discordapp.com/attachments/1129195909796860029/1172968168227082361/github_booster.PNG?ex=65623ebc&is=654fc9bc&hm=7571f014561baf85c6088a688fb0bbdb311b9086a89f85e924a58859bc95514f&">
+  <img height="35px" src="https://cdn.discordapp.com/attachments/1129195909796860029/1172968120802103316/github_builder.png?ex=65623eb0&is=654fc9b0&hm=915ca6164a436adf29748953a520aa399ed2a2805f5738ed5a2c763a75d355da&">
+  <img height="35px" src="https://cdn.discordapp.com/attachments/1129195909796860029/1172968103685140660/repo_master.PNG?ex=65623eac&is=654fc9ac&hm=16e35fdd1e4e3d23b5cefe366c3da5fdaa00b295991aa866064d5fd0a30886bc&">
+  <img height="35px" src="https://cdn.discordapp.com/attachments/1129195909796860029/1172975403019816981/commit-master.PNG?ex=65624578&is=654fd078&hm=279c75f6196ebae10b471be4c82065d6495f09cf060124f234cc3459ce556175&">
+</div>
 ## Sobre mi
 
 - 🖥 Programador Autodidacta
