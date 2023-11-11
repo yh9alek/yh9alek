@@ -3,6 +3,8 @@
 </div>
 <img src="https://cdn.discordapp.com/attachments/1129195909796860029/1171115787428298842/banner.gif?ex=655b8192&is=65490c92&hm=1bf3dbe9828febc2a7d31362a431e120baeb1399304b61125cb9f5cf973b0bd9&">
 
+<a href="mailto: yh9dev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://discord.com/users/700544505551650878">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yohan-alek-977616296">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.hackerrank.com/profile/yh9alek">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
